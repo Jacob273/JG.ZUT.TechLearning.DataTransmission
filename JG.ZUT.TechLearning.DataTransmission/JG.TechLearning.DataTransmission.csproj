@@ -67,10 +67,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdditionalData.cs" />
+    <Compile Include="AdditionalSignalData.cs" />
     <Compile Include="AmplitudeModifier.cs" />
     <Compile Include="ExcelWriter.cs" />
-    <Compile Include="FileWriter.cs" />
     <Compile Include="Fourier.cs" />
     <Compile Include="FourierResult.cs" />
     <Compile Include="PhaseModifier.cs" />
